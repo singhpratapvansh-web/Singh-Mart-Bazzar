@@ -1,0 +1,8 @@
+{
+  "name": "Singh Mart Bazaar",
+  "description": "A premium e-commerce platform blending traditional values with modern convenience, featuring AI-powered shopping assistance and comprehensive marketing tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
